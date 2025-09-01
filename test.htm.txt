@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <h1 style="background-color:#Ffa500;" style="font-family:verdana;">Nederland:</h1>
 <br><h1 style="background-color:#Ffff00;" style="font-family:verdana;">Belgie:</h1>
 <br><h1 style="background-color:#add8e6 ;" style="font-family:verdana;">Luxembourg:</h1>
